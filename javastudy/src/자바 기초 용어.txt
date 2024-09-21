@@ -1,0 +1,22 @@
+* public:외부에서 자유롭게 사용 가능 
+* protected:같은 줄끼리 사용 가능 
+* default:
+* private:외부에서 사용 불가
+* static 변수:
+* static 메서드:
+* final 변수:변경 불가능한 것
+* final 메서드:
+* final 클래스:
+* abstract 클래스:추상 클래스..
+* abstract 메서드:
+* interface:클래스를 작성하는 틀,모양
+* abstract class:
+* extends:다른 클래스를 상속받을 때 사용 
+* implements:
+* this:
+* super:
+* 오버로딩:
+* 오버라이딩:상위클래스를 하위클래스가 재정의 하는것
+* try:에러를 찾는 역할 
+* catch:try에서찾은 에러를 처리하는 역할
+* finally:
